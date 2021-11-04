@@ -1,6 +1,6 @@
 # specify main menu items here
 
 - text: Blog
-  url: /blog
+  url: /index
 - text: Authors
   url: /authors  
