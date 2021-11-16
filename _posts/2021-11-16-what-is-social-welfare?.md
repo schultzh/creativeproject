@@ -21,8 +21,6 @@ and had no other source of income” (Leung, China’s Social Welfare, Ch. 1).
 
 ## Who Does it Impact?
 
-![who](assets/img/uploads/people-social-network-260nw-144012658.jpg)
-
 Following the broad definition of social welfare and China’s
 understanding of social welfare with its three nos it only
 affects those who are disadvantaged in the sense that they can’t
