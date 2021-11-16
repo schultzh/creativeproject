@@ -3,6 +3,7 @@ layout: post
 title: What is Social Welfare?
 author: india
 date: '2021-11-16 12:00:00'
+intro_paragraph: ''
 categories: misc
 ---
 
@@ -19,17 +20,12 @@ and had no other source of income” (Leung, China’s Social Welfare, Ch. 1).
 
 ## Who Does it Impact?
 
-Following the broad definition of social welfare and China’s
-understanding of social welfare with its three nos it only
-affects those who are disadvantaged in the sense that they can’t
-“work, had no family support, and had no other source of income”
-(Leung, China’s Social Welfare, Ch. 1). 
-
-However, Peter Whiteford’s TED talk  
+While it may seem social welfare only impacts disadvantaged groups, 
+Peter Whiteford’s TED talk  
 [The  myth of ‘us’ and ‘them’ - why we all need the welfare state](https://www.youtube.com/watch?v=IZU0zfA4E9I)
 challenges the general definition of social welfare and China’s implementation of social welfare.
 Social Welfare across many spectrums has come to represent support for those disadvantaged frequently in an economic sense.
-However, in Whitford’s talk he disputes this ideology and contends that social welfare should be utilized to everyone because
+Whitford disputes this ideology and contends that social welfare should be utilized to everyone because
 of the shared experience of vulnerability every human being goes through. 
 
 ## Why is it Important in China?
