@@ -6,7 +6,7 @@ date: '2021-11-16 12:00:00'
 categories: misc
 ---
 
-## What Is Social Welfare?
+
 
 In the most broad sense social welfare can be defined as
 “organized public or private social services for the assistance
@@ -21,7 +21,7 @@ and had no other source of income” (Leung, China’s Social Welfare, Ch. 1).
 
 ## Who Does it Impact?
 
-![who](assets/img/uploads/grey-who.jpg)
+![who](assets/img/uploads/people-social-network-260nw-144012658.jpg)
 
 Following the broad definition of social welfare and China’s
 understanding of social welfare with its three nos it only
