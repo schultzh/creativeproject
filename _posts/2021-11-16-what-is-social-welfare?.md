@@ -6,8 +6,6 @@ date: '2021-11-16 12:00:00'
 categories: misc
 ---
 
-
-
 In the most broad sense social welfare can be defined as
 “organized public or private social services for the assistance
 of disadvantaged groups” (Definition, 2021). However, depending on
