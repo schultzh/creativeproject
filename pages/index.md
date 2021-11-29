@@ -6,3 +6,5 @@ section: home
 intro_paragraph: >
 ---
 ![home image](assets/img/uploads/social-welfare-rgb-color-icon-vector.jpeg)
+
+The social welfare system in China exists within the context of Confucianism.
