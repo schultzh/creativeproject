@@ -7,8 +7,6 @@ intro_paragraph: ''
 categories: misc
 ---
 
-## China’s social welfare and Confucian values?
-
 As seen, China’s social welfare system is an institution that
 has rules of its own. For example the Hukou status being a
 person's welfare eligibility. This can be seen as problematic
